@@ -62,8 +62,7 @@ export default function NewsLetter() {
                     Get notified when we&rsquo;re launching.
                   </h2>
                   <p className="mx-auto mt-6 max-w-2xl text-lg text-indigo-200">
-                    Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque
-                    tristique pellentesque.
+                   Our Engineers are working to bring this to life.
                   </p>
                 </div>
                 <form action="#" className="mt-12 sm:mx-auto sm:flex sm:max-w-lg">

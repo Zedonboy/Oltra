@@ -2,26 +2,26 @@ import { BoltIcon, EnvelopeIcon, GlobeAltIcon, ScaleIcon } from '@heroicons/reac
 
 const features = [
   {
-    name: 'Competitive rates',
-    description: 'Consequuntur omnis dicta cumque, inventore atque ab dolores aspernatur tempora ab doloremque.',
+    name: 'Borderless',
+    description: "Anyone with crypto can use this, not like kindle's this book is not available for your region",
     icon: GlobeAltIcon,
   },
   {
-    name: 'No hidden fees',
+    name: 'Revenue',
     description:
-      'Corporis quisquam nostrum nulla veniam recusandae temporibus aperiam officia incidunt at distinctio ratione.',
+      "Make money, we don't want to any percentage cost, your revenue belong to you alone",
     icon: ScaleIcon,
   },
   {
-    name: 'Instant transfers',
+    name: 'Anti-Sharing',
     description:
-      'Omnis, illo delectus? Libero, possimus nulla nemo tenetur adipisci repellat dolore eligendi velit doloribus mollitia.',
+      'Your Audience cannot share your books freely, everyone who needs it must buy from you.',
     icon: BoltIcon,
   },
   {
-    name: 'Reminder emails',
+    name: 'Anti-Piracy',
     description:
-      'Veniam necessitatibus reiciendis fugit explicabo dolorem nihil et omnis assumenda odit? Quisquam unde accusantium.',
+      'Each User has an encrypted copy of your book, it cannot be stolen.',
     icon: EnvelopeIcon,
   },
 ]
