@@ -136,10 +136,10 @@ export default function Hero() {
              
               <div>
                 <h1 className="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
-                Endless entertainment and knowledge
+                Borderless Digital Pool of knowledge
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
-                Oltra is a decentralized digital library platform, authors create and sell their books as NFTs. a community of readers, all authors revenue belongs to them, no cuts, no percentagies
+                Oltra is a content/book/article sharing platform, where content creators, authors, intellectuals write about what they know and sell it as NFTs. its a Borderless Digital content marketplace. This platform is hosted on Boba platform.
                 </p>
                 <div className="mt-8 flex gap-x-4 sm:justify-center">
                   <a
