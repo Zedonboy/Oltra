@@ -12,6 +12,8 @@ This platform is DAO, meaning to be able to use the writing services or sell you
 
 2. Anti-piracy systems makes sure every book is encrypted for each user for offline use. so that contents cannot be taken from the user device
 
+Video link
 
+[here](https://youtu.be/p73ZRznTyf8)
 I am currently testing the app and will upload soon.
 zedonbiz@gmail.com
